@@ -1,0 +1,32 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- 背景 -->
+  <rect x="8" y="8" width="112" height="112" rx="16" fill="#F5F7FB"/>
+
+  <!-- 终端窗口 -->
+  <rect x="20" y="24" width="88" height="48" rx="8" fill="#FFFFFF" stroke="#D6DCE8" stroke-width="2"/>
+
+  <!-- 顶部装饰点 -->
+  <circle cx="30" cy="34" r="2.5" fill="#FF5F57"/>
+  <circle cx="40" cy="34" r="2.5" fill="#FFBD2E"/>
+  <circle cx="50" cy="34" r="2.5" fill="#28C840"/>
+
+  <!-- terminal prompt >_ -->
+  <text x="32" y="56" fill="#2D6CDF" font-size="20" font-family="monospace" font-weight="600">
+    &gt;_
+  </text>
+
+  <!-- 余额卡片 -->
+  <rect x="28" y="78" width="72" height="28" rx="6" fill="#FFFFFF" stroke="#D6DCE8" stroke-width="2"/>
+
+  <!-- 余额符号 -->
+  <text x="40" y="97" fill="#F4B400" font-size="16" font-family="sans-serif" font-weight="700">
+    $
+  </text>
+
+  <!-- 余额数值 -->
+  <text x="58" y="97" fill="#2B2F36" font-size="14" font-family="monospace">
+    1024
+  </text>
+
+</svg>
